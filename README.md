@@ -6,3 +6,4 @@
 3. shell scipting
 4. variables
 5. shell scipt
+6. shell
