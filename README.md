@@ -3,7 +3,4 @@
 ### below are the topics
 1. how to write script
 2. printing
-3. shell scripting
-4. shell 
-5. git commits
-6. git
+3. shell scipting
