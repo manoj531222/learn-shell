@@ -10,3 +10,4 @@
 7. loops
 8. functionsEX
 9. SED editor
+10. editor
