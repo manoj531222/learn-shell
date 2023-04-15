@@ -5,4 +5,7 @@
 2. printing
 3. shell scipting
 4. variables
-5. added
+5. inputs
+6. conditions
+7. loops
+8. functionsEX
