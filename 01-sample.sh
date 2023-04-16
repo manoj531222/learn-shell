@@ -1,4 +1,4 @@
-ls -ls
+ls -l
 
 uname -a
 
