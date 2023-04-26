@@ -10,7 +10,7 @@ date=$(date)
 echo date - $date
 # Read write
 
-a=40
+a=200
 a=100
 
 echo a - $a
