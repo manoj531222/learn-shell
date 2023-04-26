@@ -17,4 +17,4 @@ echo a - $a
 
 readonly a
 a=200
-echo - $v
+echo v - $v
