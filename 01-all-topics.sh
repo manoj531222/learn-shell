@@ -5,5 +5,12 @@ echo -e "manoj1\nmanoj2\nmanoj3\nmanoj4"
 
 echo -e "manu1\tmanoj2"
 echo -e "manoj1\t\tmanoj2\t\t\tmanoj3"
+# commond substitution
 date=$(date)
 echo date - $date
+# Read write
+
+a=40
+a=50
+
+echo a - $a
