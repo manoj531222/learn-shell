@@ -5,6 +5,5 @@ echo -e "manoj1\nmanoj2\nmanoj3\nmanoj4"
 
 echo -e "manu1\tmanoj2"
 echo -e "manoj1\t\tmanoj2\t\t\tmanoj3"
-
-DATE=$(date)
-echo date - $DATE
+date=$(date)
+echo date - $date
