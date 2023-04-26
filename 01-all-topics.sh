@@ -11,6 +11,6 @@ echo date - $date
 # Read write
 
 a=40
-a=30
+a=100
 
 echo a - $a
