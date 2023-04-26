@@ -14,3 +14,6 @@ a=200
 a=100
 
 echo a - $a
+
+readonly a
+a=150
