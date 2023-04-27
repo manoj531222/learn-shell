@@ -5,7 +5,7 @@ apple)
   echo price - 20/-
   ;;
 grapes)
-  price - 50/-
+  echo price - 50/-
   ;;
   *)
     echo fruit not more
