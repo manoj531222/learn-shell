@@ -8,5 +8,5 @@ while [ $a -gt 0 ]; do
 
 for persons  in manoj prashanth venkat ; do
   echo persons names - $persons
-  sleep 1
+  sleep 2
   done
