@@ -3,4 +3,5 @@ a=1000
 while [ $a -gt 0 ]; do
   echo a - $a - greter then 0
   a=$(($a-1))
+  sleep 1
   done
