@@ -1,4 +1,4 @@
-a=100
+a=1000
 
 while [ $a -gt 0 ]; do
   echo a - $a - greter then 0
