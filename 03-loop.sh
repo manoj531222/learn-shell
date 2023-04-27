@@ -6,7 +6,7 @@ while [ $a -gt 0 ]; do
   sleep 1
   done
 
-for persons names manoj prashanth venkat ; do
+for persons  in manoj prashanth venkat ; do
   echo persons names - $persons
   sleep 1
   done
