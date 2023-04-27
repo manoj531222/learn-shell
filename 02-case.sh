@@ -8,6 +8,6 @@ grapes)
   echo price - 50/-
   ;;
   *)
-    echo fruit not more
+    echo fruit no here
     ;;
   esac
